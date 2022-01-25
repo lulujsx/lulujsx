@@ -1,6 +1,6 @@
 # ¡Hola, me alegra que estés acá! ✨
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
-### Mi nombre es Luana Vallejos, soy una desarrolladora web en constante formación
+### Mi nombre es Luana Vallejos, soy fullstack developer en formación.
 ![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
 ### Sobre mí 🔮
 > Me considero una persona con capacidades resolutivas, persistente y curiosa. Me apasionan los 
