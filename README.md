@@ -28,6 +28,6 @@
 
  Hope you find this interesting! 
 
-## Feel free to contact me!
+## Contact me
 - **E-mail:** luanalorenavallejos@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/luanavallejos
