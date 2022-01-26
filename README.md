@@ -2,7 +2,8 @@
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
 ### About me 🔮
-> Passionate about design, problem solving and web development.
+>I’m student in Computer Science degree at Universidad Nacional del Oeste, Buenos Aires, Argentina.
+>Passionate about design, problem solving and web development.
 
 
 ## Skills
