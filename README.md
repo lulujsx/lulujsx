@@ -1,7 +1,7 @@
 # ¡Hello there, I'm Luana! ✨
-.⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
-<br/>
 ![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
+<br/>
+.⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ### About me 👾
 >I’m student in Computer Science degree at Universidad Nacional del Oeste, Buenos Aires, Argentina.
 >Passionate about design, problem solving and web development.
