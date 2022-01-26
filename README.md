@@ -1,13 +1,11 @@
-# ¡Hola, me alegra que estés acá! ✨
+# ¡Hello there, I'm Luana! ✨
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
-### Mi nombre es Luana Vallejos, soy fullstack developer en formación.
 ![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
-### Sobre mí 🔮
-> Me considero una persona con capacidades resolutivas, persistente y curiosa. Me apasionan los 
-> libros, la programación y nunca dejar de aprender.
+### About me 🔮
+> Passionate about design, problem solving and web development.
 
 
-## Conocimientos
+## Skills
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a>
@@ -23,11 +21,9 @@
 
 
 
+## Check my portfolio!
+💜  **Portfolio:** https://luanavallejos.vercel.app
 
-
-## ¿Querés conocer mis trabajos? ¡accedé a mi portafolio!
-💜  **Portafolio:** https://luanavallejos.vercel.app
-
-## ¿Te interesaron mis proyectos? ¿Necesitas ayuda con programación o matemáticas? ¡Contactame!
+## Hope you find this interesting! Feel free to contact me!
 - **E-mail:** luanalorenavallejos@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/luanavallejos
