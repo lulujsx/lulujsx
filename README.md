@@ -1,7 +1,8 @@
 # ¡Hello there, I'm Luana! ✨
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
+<br/>
 ![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
-### About me 🔮
+### About me 👾
 >I’m student in Computer Science degree at Universidad Nacional del Oeste, Buenos Aires, Argentina.
 >Passionate about design, problem solving and web development.
 
@@ -23,8 +24,10 @@
 
 
 ## Check my portfolio!
-💜  **Portfolio:** https://luanavallejos.vercel.app
+💗  **Portfolio:** https://luanavallejos.vercel.app
 
-## Hope you find this interesting! Feel free to contact me!
+ Hope you find this interesting! 
+
+## Feel free to contact me!
 - **E-mail:** luanalorenavallejos@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/luanavallejos
