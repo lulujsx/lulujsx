@@ -3,8 +3,8 @@
 <br/>
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ### About me 👾
->I’m student in Computer Science degree at Universidad Nacional del Oeste located in Buenos Aires, Argentina.
->Passionate about design, problem solving and web development.
+I’m student in Computer Science degree at Universidad Nacional del Oeste located in Buenos Aires, Argentina.
+Passionate about design, problem solving and web development.
 
 
 ## Skills
