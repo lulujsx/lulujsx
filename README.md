@@ -7,9 +7,9 @@ I’m student in Computer Science degree at Universidad Nacional del Oeste locat
 Passionate about design, problem solving and web development.
 
 ### Check my portfolio
-💗  **Portfolio:** https://luanavallejos.vercel.app
+https://luanavallejos.vercel.app
 
- Hope you find this interesting! 
+Hope you find this interesting! 💗
 
 ## Skills
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
