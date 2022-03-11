@@ -1,5 +1,5 @@
 # Hi there, I'm Luana! ✨
-![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
+![Pusheen](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
 <br/>
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ## About me 👾
