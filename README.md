@@ -3,7 +3,7 @@
 <br/>
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ## About me 👾
-I’m student in Computer Science degree at Universidad Nacional del Oeste located in Buenos Aires, Argentina.
+I’m student in Computer Science degree at Universidad Nacional del Oeste located in Buenos Aires, Argentina. Currently, I am working as a React Developer at  [InifinixSoft](https://infinixsoft.com).
 Passionate about design, problem solving and web development.
 
 ### Check my portfolio
