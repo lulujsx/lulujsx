@@ -1,4 +1,4 @@
-# Hi there, I'm Luana! ✨
+# Hello there, I'm Lu ✨
 ![Pusheen](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
 <br/>
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
