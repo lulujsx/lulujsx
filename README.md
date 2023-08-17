@@ -3,8 +3,8 @@
 <br/>
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ## About me 👾
-I’m student in Computer Science degree at [Universidad Nacional del Oeste](http://www.uno.edu.ar/) located in Buenos Aires, Argentina. Currently, I am working as a React Developer at [InfinixSoft](https://infinixsoft.com).
-Passionate about math, problem solving and web development.
+I am a software developer based in Buenos Aires, Argentina, who is passionate about modern technologies and creative ways of solving problems.
+In addition to fullstack web development I love experimenting with mobile apps, UI/UX, and modern tech stacks and software architectures.
 
 ### Check my portfolio
 https://luanavallejos.vercel.app
