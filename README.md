@@ -6,10 +6,7 @@
 I am a software developer based in Buenos Aires, Argentina, who is passionate about modern technologies and creative ways of solving problems.
 In addition to fullstack web development I love experimenting with mobile apps, UI/UX, and modern tech stacks and software architectures.
 
-### Check my portfolio
-https://luanavallejos.vercel.app
-
-Hope you find this interesting! 💗
+### Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗
 
 ## Skills
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
@@ -17,7 +14,7 @@ Hope you find this interesting! 💗
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a>
 <a href="https://es.reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </a>
-<a href="https://getbootstrap.com/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="" width="40" height="40"/> </a>
 <a href="https://nodejs.org/es/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
 </a>
