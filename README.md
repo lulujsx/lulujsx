@@ -23,8 +23,3 @@ In addition to fullstack web development I love experimenting with mobile apps, 
 <a href="https://www.java.com/es/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-
-## Contact me
-- **E-mail:** luanalorenavallejos@gmail.com
-- **Linkedin:** https://www.linkedin.com/in/luanavallejos
