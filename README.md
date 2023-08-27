@@ -1,5 +1,6 @@
 # Hello there, I'm Lu ✨
 ![Pusheen](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
+<div align="center"><img width="250px" src="https://media4.giphy.com/media/IQebREsGFRXmo/giphy.gif" /></div>
 <br/>
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ## About me 👾
