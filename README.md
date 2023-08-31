@@ -4,7 +4,12 @@ I am a software developer based in Buenos Aires, Argentina, who is passionate ab
 In addition to fullstack web development I love experimenting with mobile apps, UI/UX, and modern tech stacks and software architectures.
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ### Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗
-<div><img width="100px" src="https://media.giphy.com/media/d82D8JUDFm7Hy0ApzO/giphy.gif" /></div>
+
+<div style="text-align: center;">
+  <div><img width="100px" src="https://media.giphy.com/media/40a8jFMt0sc73UtpaH/giphy.gif" /></div>
+  <div><img width="100px" src="https://media.giphy.com/media/d82D8JUDFm7Hy0ApzO/giphy.gif" /></div>
+</div>
+
 
 ## Skills
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
