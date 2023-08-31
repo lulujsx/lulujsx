@@ -6,7 +6,6 @@ In addition to fullstack web development I love experimenting with mobile apps, 
 ### Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗
 
 <div align="center">
-  <div><img width="100px" src="https://media.giphy.com/media/40a8jFMt0sc73UtpaH/giphy.gif" /></div>
   <div><img width="100px" src="https://media.giphy.com/media/d82D8JUDFm7Hy0ApzO/giphy.gif" /></div>
 </div>
 
