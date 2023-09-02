@@ -1,4 +1,4 @@
-# Hello there, I'm Lu ✨
+# Hello, I'm Lu ✨
 ## About me 🧸
 I am a software developer based in Buenos Aires, Argentina, who is passionate about modern technologies and creative ways of solving problems.
 In addition to fullstack web development I love experimenting with mobile apps, UI/UX, and modern tech stacks and software architectures.
