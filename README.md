@@ -1,5 +1,5 @@
 # Hello, I'm Lu ✨
-## <About me/> 🧸
+## About me 🧸
 I am a software developer based in Buenos Aires, Argentina, who is passionate about modern technologies and creative ways of solving problems.
 In addition to fullstack web development I love experimenting with mobile apps, UI/UX, and modern tech stacks and software architectures.
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
@@ -10,7 +10,7 @@ In addition to fullstack web development I love experimenting with mobile apps, 
 </div>
 
 
-## <Skills/>
+## Skills
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" width="40" height="40"/> </a>
