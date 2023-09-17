@@ -1,4 +1,4 @@
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=30&duration=2000&pause=1000&color=F77CC3&multiline=true&width=435&lines=Luluxita+%E2%99%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=30&duration=3000&pause=1000&color=F77CC3&multiline=true&width=435&lines=Luluxita+%E2%99%A1" alt="Typing SVG" /></a>
 
 <h2>About me <img src="https://i.imgur.com/tZtNRqz.gif)"/></h2>
 I am a software developer based in Buenos Aires, Argentina, who is passionate about newest top technologies and creative ways of solving problems.
