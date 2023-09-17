@@ -36,4 +36,7 @@ In addition to fullstack web development I love experimenting with mobile apps, 
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 <br/>
+<br/>
+<img width="150" src="https://i.imgur.com/0TOmzay.gif"/>
+
 
