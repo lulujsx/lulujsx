@@ -6,7 +6,7 @@ In addition to fullstack web development I love experimenting with mobile apps, 
 .⋆｡⋆˚｡⋆｡˚｡⋆.⋆｡⋆˚｡⋆｡˚｡⋆.
 <h4>Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗<h4/>
 
-<img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right"/>
+<img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right" alt="rilakkuma"/>
 
 
 <h2>Skills <img src="https://i.imgur.com/3NyNIsD.gif"/></h2>
