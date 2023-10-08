@@ -9,7 +9,7 @@ In addition to fullstack web development I love experimenting with mobile apps, 
 <img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right" alt="rilakkuma"/>
 
 
-<h2>Skills <img src=""/></h2>
+<h2>Skills <img width="20" src="https://i.imgur.com/OsJuwL7.png"/></h2>
 <h3>Programming Languages</h3>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
