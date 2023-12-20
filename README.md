@@ -1,8 +1,8 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F77CC3&width=435&lines=c%3A%5Cuser%5Clulux+%E2%99%A1" alt="Typing SVG" /></a>
 
 <h2>About me <img src="https://i.imgur.com/tZtNRqz.gif)"/></h2>
-I am a software developer based in Buenos Aires, Argentina, who is passionate about newest technologies and creative ways of solving problems.
-In addition to fullstack web development I love experimenting with mobile apps, UI/UX, modern tech stacks and software architectures.
+I am a Front-End Developer based in Buenos Aires, Argentina, who is passionate about newest technologies and creative ways of solving problems.
+In addition to web development I love experimenting with mobile apps, UI/UX, modern tech stacks and software architectures.
 .⋆｡⋆˚｡⋆｡˚｡⋆.⋆｡⋆˚｡⋆｡˚｡⋆.
 <h4>Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗<h4/>
 
