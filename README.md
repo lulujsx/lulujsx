@@ -1,15 +1,15 @@
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F77CC3&width=435&lines=c%3A%5Cuser%5Clulux+%E2%99%A1" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F77CC3&width=435&lines=c%3A%5Cuser%5Clulux+%E2%99%A1" alt="Typing SVG with my name" /></a>
 
-<h2>About me <img src="https://i.imgur.com/tZtNRqz.gif)"/></h2>
-I am a Front-End Developer based in Buenos Aires, Argentina, who is passionate about newest technologies and creative ways of solving problems.
+<h2>About me <img src="https://i.imgur.com/tZtNRqz.gif)" alt="cute sparkle icon decorating"/></h2>
+<img width="100" height="120" src="https://i.imgur.com/bXSMQhP.png" align="left" alt="cute image of usagi decorating"/>I'm Front-End Developer based in Buenos Aires, Argentina, who is passionate about newest technologies and creative ways of solving problems.
 In addition to web development I love experimenting with mobile apps, UI/UX, modern tech stacks and software architectures.
 .⋆｡⋆˚｡⋆｡˚｡⋆.⋆｡⋆˚｡⋆｡˚｡⋆.
 <h4>Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗<h4/>
 
-<img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right" alt="rilakkuma"/>
+<img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right" alt="image of rilakkuma decorating"/>
 
 
-<h2>Skills <img width="20" src="https://i.imgur.com/3NyNIsD.gif"/></h2>
+<h2>Skills <img width="20" src="https://i.imgur.com/3NyNIsD.gif" alt="cute heart icon decorating"/></h2>
 <h3>Programming Languages</h3>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
