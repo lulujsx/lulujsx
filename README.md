@@ -10,7 +10,7 @@ In addition to web development I love experimenting with mobile apps, UI/UX, mod
 <img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right" alt="image of rilakkuma decorating"/>
 
 
-<h2>Skills <img width="20" src="https://i.imgur.com/3NyNIsD.gif" alt="cute heart icon decorating"/></h2>
+<h2 style="border-bottom: 0;">Skills <img width="20" src="https://i.imgur.com/3NyNIsD.gif" alt="cute heart icon decorating"/></h2>
 <h3>Programming Languages</h3>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
