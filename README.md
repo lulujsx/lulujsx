@@ -19,13 +19,9 @@ In addition to web development I love experimenting with mobile apps, UI/UX, mod
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white"></a>
 <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=61DAFB"></a>
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular.js-E23237.svg?logo=angularjs&logoColor=white"></a>
-<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material ui-0081CB.svg?logo=material-ui&logoColor=white"></a>
-<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-<a href="#"><img alt="" src=""></a>
-<a href="#"><img alt="" src=""></a>
+
 <h4>Backend Technologies</h3>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
