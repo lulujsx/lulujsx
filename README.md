@@ -1,5 +1,7 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F77CC3&width=435&lines=c%3A%5Cuser%5Clulux+%E2%99%A1" alt="Typing SVG with my name" /></a>
 
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdxcXI0aTZyMWNtZHdkd2d2MHZkaWM5N2x6dHgxbjUyYjh0MXJyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O4avgwuWe45os/giphy.gif" width="100%">
+
 <h3>About me <img src="https://i.imgur.com/tZtNRqz.gif)" alt="cute sparkle icon decorating"/></h2>
 <!-- (<img height="120" src="https://i.imgur.com/pMHL6uN.gif" align="left" alt="cute image of usagi decorating"/>) -->
 I'm a Front-End Developer based in Buenos Aires, Argentina, who is passionate about newest technologies and creative ways of solving problems.
@@ -34,6 +36,7 @@ In addition to web development I love experimenting with mobile apps, UI/UX, mod
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 <br/>
 <br/>
-<img width="150" src="https://i.imgur.com/0TOmzay.gif"/>
-
-
+<div style="display: flex; justify-content: space-around" width="100%">
+  <img src="https://media.giphy.com/media/torBw1NyiGVjO/giphy.gif" alt="Imagen 1" width="150">
+  <img src="https://media.giphy.com/media/FT90tGvpa6ANeWko6X/giphy.gif?cid=ecf05e47e91811e8688dddb349e46c11230c965e88c2549d&ep=v1_user_favorites&rid=giphy.gif&ct=s" alt="Imagen 2" width="280">
+</div>
