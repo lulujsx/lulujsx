@@ -4,8 +4,23 @@
 
 <h3>About me <img src="https://i.imgur.com/tZtNRqz.gif)" alt="cute sparkle icon decorating"/></h2>
 <!-- (<img height="120" src="https://i.imgur.com/pMHL6uN.gif" align="left" alt="cute image of usagi decorating"/>) -->
-I'm a Front-End Developer based in Buenos Aires, Argentina, who is passionate about newest technologies and creative ways of solving problems.
-In addition to web development I love experimenting with mobile apps, UI/UX, modern tech stacks and software architectures.
+Frontend & Mobile Developer ✧ Buenos Aires, Argentina 🇦🇷  
+
+I build interfaces with intention, emotion and logic  
+— where **design meets functionality** ♡
+
+Currently working with **React, React Native & Flutter**,  
+exploring modern stacks, clean architectures and product-driven development.
+
+I love:
+✧ Mobile & web experiences 
+✧ UI/UX & visual details  
+✧ Creative problem solving
+✧ Turning ideas into real things  
+
+Always curious, always learning, always experimenting  
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
 .⋆｡⋆˚｡⋆｡˚｡⋆.⋆｡⋆˚｡⋆｡˚｡⋆.
 <h4>Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗<h4/>
 
