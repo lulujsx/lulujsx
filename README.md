@@ -5,17 +5,9 @@
 <h3>About me <img src="https://i.imgur.com/tZtNRqz.gif)" alt="cute sparkle icon decorating"/></h2>
 <!-- (<img height="120" src="https://i.imgur.com/pMHL6uN.gif" align="left" alt="cute image of usagi decorating"/>) -->
 Frontend & Mobile Developer ✧ Buenos Aires, Argentina 🇦🇷  
-I love building thoughtful digital experiences where code, design and product thinking meet ♡  
+I love building digital experiences where code, design and product thinking meet ♡  
 
-Currently working with React, React Native & Flutter, exploring modern stacks, clean architectures and user-centered development. (｡･ω･｡)
-I love: 
-✧ Mobile & web experiences 
-✧ UI/UX & visual details  
-✧ Creative problem solving 
-✧ Turning ideas into real things ♡
-
-Always curious, always learning, always experimenting  
-(づ｡◕‿‿◕｡)づ ✧･ﾟ
+Currently working with React, React Native & Flutter (｡･ω･｡)
 
 .⋆｡⋆˚｡⋆｡˚｡⋆.⋆｡⋆˚｡⋆｡˚｡⋆.
 <h4>Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗<h4/>
