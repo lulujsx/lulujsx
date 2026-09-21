@@ -10,7 +10,7 @@ I love building digital experiences where code, design and product thinking meet
 Currently working with React, React Native & Flutter (｡･ω･｡)
 
 .⋆｡⋆˚｡⋆｡˚｡⋆.⋆｡⋆˚｡⋆｡˚｡⋆.
-<h4>Check my <a href="https://luanavallejos.vercel.app" target="_blank">portfolio</a> 💗<h4/>
+<h4>Check my <a href="https://lulujs.dev" target="_blank">portfolio</a> 💗<h4/>
 
 <img width="150" src="https://i.imgur.com/7wp8a9L.png" align="right" alt="image of rilakkuma decorating"/>
 
